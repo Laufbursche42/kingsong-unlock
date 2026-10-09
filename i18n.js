@@ -127,7 +127,6 @@ window.I18N = {
     warnLock: 'Das schaltet den elektronischen Stop-Schalter scharf. Je nach Modell steht das Rad dann still, bis du wieder entsperrst.',
     warnUnlock: 'Das hebt die elektronische Sperre auf.',
     warnSpeed: 'Das hebt die Drossel an. Die ABE erlischt und der Betrieb auf öffentlichen Wegen ist dann nicht erlaubt.',
-    disclaimerText: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Das Anheben der Geschwindigkeit hebt die Drossel auf: die ABE erlischt und der Betrieb auf öffentlichen Wegen ist dann nicht erlaubt. Nutze es nur am eigenen Fahrzeug und auf eigenes Risiko. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. KINGSONG ist eine Marke des jeweiligen Inhabers. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu KingSong.',
 
     errNoWebBt: 'Dieser Browser hat kein Web Bluetooth. Nutze Chrome, Edge oder Bluefy (iOS).',
     errNotConnected: 'nicht verbunden',
@@ -269,7 +268,6 @@ window.I18N = {
     warnLock: 'This arms the electronic stop-switch. Depending on the model the wheel then stays put until you unlock again.',
     warnUnlock: 'This releases the electronic lock.',
     warnSpeed: 'This raises the throttle. The type approval becomes void and riding on public roads is then not allowed.',
-    disclaimerText: 'This tool is a feasibility study, not a finished product. There is no warranty and no guarantee of error-free operation. Raising the speed removes the throttle: the type approval becomes void and riding on public roads is then not allowed. Use it only on your own vehicle and at your own risk. The page talks to the device locally over Bluetooth only, no data is sent to any server. KINGSONG is a trademark of its respective owner. This project is independent and not affiliated with KingSong.',
 
     errNoWebBt: 'This browser has no Web Bluetooth. Use Chrome, Edge or Bluefy (iOS).',
     errNotConnected: 'not connected',
